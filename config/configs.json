@@ -1,0 +1,9 @@
+{
+  "PORT": 3000,
+  "FTP": {
+    "host": "ftp.dlptest.com",
+    "user": "dlpuser",
+    "password": "rNrKYTX9g7z3RgJRmxWuGHbeu",
+    "secure": false
+  }
+}
